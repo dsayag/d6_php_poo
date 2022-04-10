@@ -1,0 +1,20 @@
+{
+    "name": "david.sayag/d6-php-poo",
+    "type": "project",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "App\\": "Classes/",
+            "Model\\": "Model/",
+            "Enclos\\": "Classes/Enclos/",
+            "Animal\\": "Classes/Animal/",
+            "Soigneur\\": "Classes/Soigneur/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Moi"
+        }
+    ],
+    "require": {}
+}
